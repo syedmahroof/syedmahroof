@@ -1,11 +1,12 @@
+👋 Hello there!
 
-Hello there 👋
+By day, I'm a Laravel Developer & Team Leader ☼ guiding projects to success at Golden Synapse, Dubai. By night, I'm a Laravel Community Contributor ☾, passionate about giving back and sharing knowledge.
 
-A Laravel Developer and Team Leader by day ☼ and a Laravel Community Contributor by night ☾
-Team Leader & Developer at Golden Synapse, Dubai;
+🔧 Tech I Use Daily:
+.php, .js, .html, .css, .svg, .psd, .ai
 
+🌍 Active in:
+The Laravel Community, where I'm constantly learning, growing, and helping others.
 
-⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai
-🌍 I'm mostly active within the Laravel Community
-
-💬 ping me about design, branding, laravel, development, design thinking
+💬 Let’s Chat About:
+Design, branding, Laravel, development, or design thinking. Always happy to connect, contribute to open-source projects, and lend a helping hand!
