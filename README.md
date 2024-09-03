@@ -14,6 +14,5 @@ Design, branding, Laravel, development, or design thinking. Always happy to conn
 
 #### 📜 Github stats:
 
-![GITHUB Stats](https://raw.githubusercontent.com/syedmahroof/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/syedmahroof/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/syedmahroof/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/syedmahroof/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
