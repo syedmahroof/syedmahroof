@@ -14,5 +14,10 @@ Design, branding, Laravel, development, or design thinking. Always happy to conn
 
 #### 📜 Github stats:
 
+[![Syed Mahroof's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedmahroof&show_icons=true&theme=dark)](https://github.com/syedmahroof)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedmahroof&layout=compact&theme=dark)](https://github.com/syedmahroof)
+
+
 
 
